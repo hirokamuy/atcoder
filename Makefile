@@ -26,5 +26,5 @@ all: clean $(OBJS) $(TARGET)
 clean:
 	-rm -f $(OBJS) $(TARGET)
 
-run:
+run: $(OBJS) $(TARGET)
 	./$(TARGET)

@@ -6,6 +6,8 @@ using ll = long long int;
 
 int main(void)
 {
-	cout<<"Hello, Makefile"<<endl;
+	int a,b;
+	cin>>a>>b;
+	cout<<(a^b)<<endl;
 	return 0;
 }
