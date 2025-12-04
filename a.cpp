@@ -7,6 +7,8 @@ using namespace std;
 #define pii pair<int,int>
 #define int long long
 #define rep(i,n) for(int i=0;i<n;i++)
+#define NO cout<<"No"<<endl
+#define YES cout<<"No"<<endl
 
 void solve(void){
 }
