@@ -5,10 +5,13 @@ using namespace std;
 #define vd vector<double>
 #define vvd vector<vector<double>>
 #define pii pair<int,int>
+#define vpii vector<pair<int,int>>
 #define int long long
-#define FOR(i,n) for(int i=0;i<n;i++)
+#define rep(i,n) for(int i=0;i<n;i++)
+#define FOR(i,k,n) for(int i=k;i<n;i++)
 #define NO cout<<"No"<<endl
 #define YES cout<<"Yes"<<endl
+#define ALL(v) v.begin(),v.end()
 
 void solve(void){
 }
