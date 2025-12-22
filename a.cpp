@@ -3,12 +3,11 @@ using namespace std;
 #define int long long
 
 #define vi vector<int>
-#define vvi vector<vector<int>>
-#define vd vector<double>
-#define vvd vector<vector<double>>
+#define vvi vector<vi>
+#define vvvi vector<vvi>
 #define vs vector<string>
 #define pii pair<int,int>
-#define vpii vector<pair<int,int>>
+#define vpii vector<pii>
 
 #define rep(i,n) for(int i=0;i<n;i++)
 #define repi(i,k,n) for(int i=k;i<n;i++)
