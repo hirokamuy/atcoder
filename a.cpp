@@ -15,6 +15,8 @@ using namespace std;
 #define YES cout<<"Yes"<<endl
 #define ALL(v) v.begin(),v.end()
 
+const int INF = numeric_limits<int>::max();
+
 void solve(void){
 }
 
